@@ -695,5 +695,16 @@
             "repo": "supa-dioxus"
         },
         "link": "https://github.com/SuddenlyHazel/supa-dioxus"
+    },
+    {
+        "name": "OPOSSUM",
+        "description": "Open-source Optics Simulation System and Unified Modeler",
+        "type": "MadeWith",
+        "category": "App",
+        "github": {
+            "username": "opossum-labs",
+            "repo": "opossum"
+        },
+        "link": "https://github.com/opossum-labs/opossum"
     }
 ]
